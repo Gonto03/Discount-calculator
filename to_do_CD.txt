@@ -1,0 +1,1 @@
+- Implementar como receber input com os preços por parte dos utilizadores
